@@ -17,3 +17,6 @@ Phonebook is a simple command-line application written in C. It allows users to 
 
 ## Getting Started
 To get started with Phonebook, clone this repository to your local machine and compile the source code using a C compiler.
+
+```bash
+git clone https://github.com/oddmaw/Phonebook-C.git
